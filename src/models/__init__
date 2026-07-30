@@ -1,0 +1,7 @@
+"""
+Sentinel AI v6 — Cyber Threat Intelligence Platform
+Production-grade ML pipeline for network threat detection.
+"""
+
+__author__ = "Cyber Defense Systems"
+__license__ = "MIT"
